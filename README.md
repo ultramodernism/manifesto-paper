@@ -21,9 +21,6 @@ Human connection – Spaces designed to foster deeper connections between people
 
 Radical advancement - Moving beyond incremental progress toward transformative innovation.
 
-Join the Movement
-
-"The time is now."
 
 This repository contains our full manifesto, technical specifications, design frameworks, and implementation guides for bringing Ultramodernism to life.
 
