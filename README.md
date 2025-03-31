@@ -1,5 +1,5 @@
 # Ultramodernism: A Tech Manifesto
-Ultramodernism is co-authored my architects, engineers, designers and artists to define the future of autonomous buildings. 
+Ultramodernism is co-authored by architects, engineers, designers and artists to define the future of autonomous buildings. 
 This is our vision.
 
 "We believe in a future where 'living buildings' will transform our life, enable us to regain our time, and connect us more fully with people."
