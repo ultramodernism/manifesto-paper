@@ -36,7 +36,7 @@ Join the Movement, the time is now!
 
 Contributors – 
 We welcome those who imagine boldly and build purposefully—engineers, designers, architects, and dreamers—united by our vision of living and self-operating spaces.
-
+For those who would like to leave comments and thoughts, you may do so directly here - https://docs.google.com/document/d/1mKYV4p8Fhw8GWwP2dMT6E8lQ-RyJ1-olJ0Im5ZdFfGo/edit?usp=sharing/ 
 
 Contact:
 Get involved by attending our workshops or emailing info@ultramodernism.org
