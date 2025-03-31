@@ -1,22 +1,27 @@
 # manifesto-paper
 Ultramodernism is co-authored my architects, engineers, designers and artists to define the future of autonomous buildings. 
-Ultramodernism: A Tech Manifesto
-
-Our Vision
+This is our vision.
 
 "We believe in a future where 'living buildings' will transform our life, enable us to regain our time, and connect us more fully with people."
 
-Ultramodernism is a movement dedicated to radically advancing the way we live through self-operating buildings. We envision structures that are no longer configured or maintained by people, but have been transformed to be self-operating through technology and exceptional design.
+Ultramodernism: 
+A movement dedicated to radically advancing the way we live through self-operating buildings. We envision structures that are no longer configured or maintained by people, but have been transformed to be self-operating through technology and exceptional design.
 
 Our Mission
-As a collective of engineers, architects, and designers, we have come together to pioneer a revolutionary approach to our built environment. Our manifesto outlines the principles, technologies, and design philosophies that will lead us toward a future where buildings work for us, not the other way around.
+To create a collective of engineers, architects, and designers, who have come together to pioneer this revolutionary approach to our built environment. This manifesto defines the vision and frameworks for a future in which buildings are not managed by us, but operate intelligently on our behalf.
+
 
 Key Principles
 
-Self-Operating Structures: Buildings that maintain, configure, and optimize themselves
-Time Reclamation: Technology that gives people back their time
-Human Connection: Spaces designed to foster deeper connections between people
-Radical Advancement: Pushing beyond incremental improvements to transformative change
+Key Principles:
+
+Living buildings- Autonomous structures that sense, respond, and adapt—integrating technology and design to sustain themselves and enrich human life.
+
+Time reclamation – Leveraging technology to restore time to human life.
+
+Human connection – Spaces designed to foster deeper connections between people. 
+
+Radical advancement - Moving beyond incremental progress toward transformative innovation.
 
 Join the Movement
 
@@ -32,10 +37,15 @@ Contents
 - Implementation Guides
 - Case Studies
 
-Contributing
+Join the Movement, the time is now!
 
-We welcome contributions from forward-thinking engineers, architects, designers, and visionaries who share our belief in the transformative power of self-operating buildings.
-Contact
+Contributors – 
+We welcome those who imagine boldly and build purposefully—engineers, designers, architects, and dreamers—united by our vision of living and self-operating spaces.
+
+
+Contact:
 Get involved by attending our workshops or emailing info@ultramodernism.org
 
-Ultramodernism: Insisting on radically advancing the way we live.
+
+Ultramodernism: 
+Insisting on radically advancing the way we live.
