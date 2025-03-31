@@ -13,8 +13,6 @@ To create a collective of engineers, architects, and designers, who have come to
 
 Key Principles
 
-Key Principles:
-
 Living buildings- Autonomous structures that sense, respond, and adapt—integrating technology and design to sustain themselves and enrich human life.
 
 Time reclamation – Leveraging technology to restore time to human life.
