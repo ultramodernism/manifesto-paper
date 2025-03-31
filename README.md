@@ -1,4 +1,4 @@
-# manifesto-paper
+# Ultramodernism: A Tech Manifesto
 Ultramodernism is co-authored my architects, engineers, designers and artists to define the future of autonomous buildings. 
 This is our vision.
 
