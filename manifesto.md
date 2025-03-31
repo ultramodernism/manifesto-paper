@@ -1,4 +1,4 @@
-Authored by architects, artists and engineers of the Ultramodern movement
+_Authored by architects, artists and engineers of the Ultramodern movement_
 
 **Ultramodernism**
 A tech+architecture manifesto / A proposal for autonomous buildings
