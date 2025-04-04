@@ -27,10 +27,10 @@ This repository contains our full manifesto, technical specifications, design fr
 Contents
 
 - Full Manifesto
-- Technical Frameworks
+- Technical Frameworks (TBA)
 - Design Principles
-- Implementation Guides
-- Case Studies
+- Implementation Guides (To be built with community)
+- Case Studies (Coming soon)
 
 Join the Movement, the time is now!
 
